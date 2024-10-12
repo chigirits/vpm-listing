@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "chigirits/AvatarMate"
+        "chigirits/AvatarMate",
+        "chigirits/PolygonMate"
     ],
     "packages":[
     ]
