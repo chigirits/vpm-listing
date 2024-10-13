@@ -1,5 +1,5 @@
 {
-    "name":"chigiri.tokyo",
+    "name":"PasocomMate Chigiri",
     "id":"tokyo.chigiri.vpm-listing",
     "url":"https://chigirits.github.io/vpm-listing/index.json",
     "author":{
@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "chigirits/AvatarMate",
-        "chigirits/PolygonMate"
+        "chigirits/PolygonMate",
+        "chigirits/TriggerHero"
     ],
     "packages":[
     ]
