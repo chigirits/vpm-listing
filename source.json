@@ -14,9 +14,10 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "chigirits/AvatarMate",
+        "chigirits/AvatarMate.VRC",
         "chigirits/PolygonMate",
-        "chigirits/TriggerHero"
+        "chigirits/TriggerHero.VRC",
+        "chigirits/WorldPlace.VRC"
     ],
     "packages":[
     ]
